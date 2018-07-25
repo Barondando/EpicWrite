@@ -1,48 +1,209 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://barondando.github.io/epicwrite" resolutions="1x" timestamp="1527906811938">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://barondando.github.io/EpicWrite" resolutions="1x" timestamp="1532487522716">
   <folder name="css">
     <file name="site_global.css" crc="4253530768"/>
-    <file name="master_home-master.css" crc="3818103993" ref="staff:writing-group:index:events:forge:about:register"/>
-    <file name="staff.css" crc="3968356997" ref="staff"/>
-    <file name="writing-group.css" crc="63134670" ref="writing-group"/>
-    <file name="index.css" crc="443851020" ref="index"/>
-    <file name="events.css" crc="63134670" ref="events"/>
-    <file name="forge.css" crc="63134670" ref="forge"/>
-    <file name="about.css" crc="89811841" ref="about"/>
-    <file name="register.css" crc="63134670" ref="register"/>
+    <file name="master_home-master.css" crc="49264113" ref="about:register:writing-group:forge:index:events:staff"/>
+    <file name="about.css" crc="105611503" ref="about"/>
+    <file name="register.css" crc="47557696" ref="register"/>
+    <file name="writing-group.css" crc="47557696" ref="writing-group"/>
+    <file name="forge.css" crc="47557696" ref="forge"/>
+    <file name="index.css" crc="4156041591" ref="index"/>
+    <file name="events.css" crc="47557696" ref="events"/>
+    <file name="staff.css" crc="333633155" ref="staff"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:events:writing-group:register:forge:staff"/>
-    <file name="museutils.js" crc="340535759" ref="index:about:events:writing-group:register:forge:staff"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about:events:writing-group:register:forge:staff"/>
-    <file name="museconfig.js" crc="310584261" ref="index:about:events:writing-group:register:forge:staff"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index:about:events:writing-group:register:forge:staff"/>
-    <file name="webpro.js" crc="4059564322" ref="index"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
-    <file name="touchswipe.js" crc="4075097462" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:about:events:writing-group:register:forge:staff"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:about:events:writing-group:register:forge:staff"/>
-    <file name="require.js" crc="7928878" ref="index:about:events:writing-group:register:forge:staff"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="about"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="about"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>about:phone>staff:phone>forge:phone>events:phone>writing-group:phone>register:index:about:events:writing-group:register:forge:staff"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>about:phone>staff:phone>forge:phone>events:phone>writing-group:phone>register:index:about:events:writing-group:register:forge:staff"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>about:phone>staff:phone>forge:phone>events:phone>writing-group:phone>register:index:about:events:writing-group:register:forge:staff"/>
+    <file name="museconfig.js" crc="310584261" ref="phone>index:phone>about:phone>staff:phone>forge:phone>events:phone>writing-group:phone>register:index:about:events:writing-group:register:forge:staff"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>about:phone>staff:phone>forge:phone>events:phone>writing-group:phone>register:index:about:events:writing-group:register:forge:staff"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="phone>index:phone>about:phone>staff:phone>forge:phone>events:phone>writing-group:phone>register:index:about:events:writing-group:register:forge:staff"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index:phone>about:phone>staff:phone>forge:phone>events:phone>writing-group:phone>register:index"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="phone>index:phone>about:phone>staff:phone>forge:phone>events:phone>writing-group:phone>register"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="phone>index:index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="phone>index:phone>about:phone>staff:phone>forge:phone>events:phone>writing-group:phone>register:about"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>about:phone>staff:phone>forge:phone>events:phone>writing-group:phone>register:index:about:events:writing-group:register:forge:staff"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>about:phone>staff:phone>forge:phone>events:phone>writing-group:phone>register:index:about:events:writing-group:register:forge:staff"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>about:about"/>
   </folder>
   <folder name="images">
-    <file name="epicwrite logo medium.png" crc="10770874" seo="true" ref="index:about:events:writing-group:register:forge:staff">
-      <caption webpage="writing-group" alt=""/>
+    <file name="hamburger-menu.svg" crc="535875281" ref="phone>index"/>
+    <file name="hamburger-menu_poster_u6156.png" crc="4030854172" ref="phone>index"/>
+    <file name="close.svg" crc="303971687" ref="phone>index"/>
+    <file name="close_poster_u6162.png" crc="292643793" ref="phone>index"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="epicwrite logo medium.png" crc="4099239479" seo="true" ref="phone>index:phone>about:phone>staff:phone>forge:phone>events:phone>writing-group:phone>register:index:about:events:writing-group:register:forge:staff">
       <caption webpage="forge" alt=""/>
+      <caption webpage="forge" alt=""/>
+      <caption webpage="writing-group" alt=""/>
+      <caption webpage="writing-group" alt=""/>
+      <caption webpage="staff" alt=""/>
+      <caption webpage="staff" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="register" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+    </file>
+    <file name="adobestock_campfire-crop-u6753.jpg" crc="388785049" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="trust-crop-u6751.jpg" crc="3908728204" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="book-crop-u6757.jpg" crc="4047665739" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="red beret-crop-u6759.jpg" crc="3960346702" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20170722_094814-crop-u6755.jpg" crc="4090005032" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
+    <file name="arrow-down.svg" crc="3784695621" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrow-down_poster_.png" crc="4029334125" ref="phone>index"/>
+    <file name="help-circle.svg" crc="108006272" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="help-circle_poster_.png" crc="4027008202" ref="phone>index"/>
+    <file name="users.svg" crc="3830583679" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="users_poster_.png" crc="204140089" ref="phone>index"/>
+    <file name="calendar.svg" crc="3823766959" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="calendar_poster_.png" crc="3827625754" ref="phone>index"/>
+    <file name="book-open.svg" crc="462867204" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="book-open_poster_.png" crc="93452565" ref="phone>index"/>
+    <file name="facebook.svg" crc="431971783" seo="true" ref="phone>index:phone>about:phone>staff:phone>forge:phone>events:phone>writing-group:phone>register:index:about:events:writing-group:register:forge:staff">
+      <caption webpage="forge" alt=""/>
+      <caption webpage="forge" alt=""/>
+      <caption webpage="writing-group" alt=""/>
+      <caption webpage="writing-group" alt=""/>
+      <caption webpage="staff" alt=""/>
+      <caption webpage="staff" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+    </file>
+    <file name="facebook_poster_.png" crc="203603000" ref="phone>index"/>
+    <file name="twitter.svg" crc="504100210" seo="true" ref="phone>index:phone>about:phone>staff:phone>forge:phone>events:phone>writing-group:phone>register:index:about:events:writing-group:register:forge:staff">
+      <caption webpage="forge" alt=""/>
+      <caption webpage="forge" alt=""/>
+      <caption webpage="writing-group" alt=""/>
+      <caption webpage="writing-group" alt=""/>
+      <caption webpage="staff" alt=""/>
+      <caption webpage="staff" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+    </file>
+    <file name="twitter_poster_.png" crc="3908298412" ref="phone>index"/>
+    <file name="tumblr.svg" crc="4163930803" seo="true" ref="phone>index:phone>about:phone>staff:phone>forge:phone>events:phone>writing-group:phone>register:index:about:events:writing-group:register:forge:staff">
+      <caption webpage="forge" alt=""/>
+      <caption webpage="forge" alt=""/>
+      <caption webpage="writing-group" alt=""/>
+      <caption webpage="writing-group" alt=""/>
+      <caption webpage="staff" alt=""/>
+      <caption webpage="staff" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+    </file>
+    <file name="tumblr_poster_.png" crc="157914133" ref="phone>index"/>
+    <file name="heatherworks_white.svg" crc="3862497481" seo="true" ref="phone>index:phone>about:phone>staff:phone>forge:phone>events:phone>writing-group:phone>register:index:about:events:writing-group:register:forge:staff">
+      <caption webpage="forge" alt=""/>
+      <caption webpage="forge" alt=""/>
+      <caption webpage="writing-group" alt=""/>
+      <caption webpage="writing-group" alt=""/>
+      <caption webpage="staff" alt=""/>
+      <caption webpage="staff" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+    </file>
+    <file name="heatherworks_white_poster_.png" crc="188934098" ref="phone>index"/>
+    <file name="2005-u7157-fr.jpg" crc="4009102146" ref="phone>about"/>
+    <file name="bridge-u7164-fr.jpg" crc="457134081" ref="phone>about"/>
+    <file name="combat-u7168-fr.jpg" crc="4267303866" ref="phone>about"/>
+    <file name="kgb.jpg" crc="3858545147" seo="true" ref="phone>staff:staff">
+      <caption webpage="staff" alt=""/>
       <caption webpage="staff" alt=""/>
     </file>
-    <file name="arrowmenudown.png" crc="262559161" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="slippers.jpg" crc="126041246" seo="true" ref="phone>staff:staff">
+      <caption webpage="staff" alt=""/>
+      <caption webpage="staff" alt=""/>
+    </file>
+    <file name="annika.jpg" crc="4149930528" seo="true" ref="phone>staff:staff">
+      <caption webpage="staff" alt=""/>
+      <caption webpage="staff" alt=""/>
+    </file>
+    <file name="gabriel.jpg" crc="395649305" seo="true" ref="phone>staff:staff">
+      <caption webpage="staff" alt=""/>
+      <caption webpage="staff" alt=""/>
+    </file>
+    <file name="addison.jpg" crc="4129228433" seo="true" ref="phone>staff:staff">
+      <caption webpage="staff" alt=""/>
+      <caption webpage="staff" alt=""/>
+    </file>
+    <file name="blue.jpg" crc="4160719344" seo="true" ref="phone>staff:staff">
+      <caption webpage="staff" alt=""/>
+      <caption webpage="staff" alt=""/>
+    </file>
+    <file name="connor.jpg" crc="3969048841" seo="true" ref="phone>staff:staff">
+      <caption webpage="staff" alt=""/>
+      <caption webpage="staff" alt=""/>
+    </file>
+    <file name="liz.jpg" crc="3863602119" seo="true" ref="phone>staff:staff">
+      <caption webpage="staff" alt=""/>
+      <caption webpage="staff" alt=""/>
+    </file>
+    <file name="logan.jpg" crc="206364709" seo="true" ref="phone>staff:staff">
+      <caption webpage="staff" alt=""/>
+      <caption webpage="staff" alt=""/>
     </file>
     <file name="adobestock_campfire.jpg" crc="359039669" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="trust.jpg" crc="3887714184" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -55,67 +216,6 @@
     <file name="20170722_094814.jpg" crc="397666460" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="arrow-down.svg" crc="3784695621" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="arrow-down_poster_.png" crc="130254087" ref="index"/>
-    <file name="help-circle.svg" crc="108006272" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="help-circle_poster_.png" crc="4055244444" ref="index"/>
-    <file name="users.svg" crc="3830583679" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="users_poster_.png" crc="3930914948" ref="index"/>
-    <file name="calendar.svg" crc="3823766959" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="calendar_poster_.png" crc="124693106" ref="index"/>
-    <file name="book-open.svg" crc="462867204" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="book-open_poster_.png" crc="93452565" ref="index"/>
-    <file name="heatherworks_white.svg" crc="3862497481" seo="true" ref="index:about:events:writing-group:register:forge:staff">
-      <caption webpage="writing-group" alt=""/>
-      <caption webpage="forge" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="register" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="staff" alt=""/>
-    </file>
-    <file name="heatherworks_white_poster_.png" crc="188934098" ref="index"/>
-    <file name="facebook.svg" crc="431971783" seo="true" ref="index:about:events:writing-group:register:forge:staff">
-      <caption webpage="writing-group" alt=""/>
-      <caption webpage="forge" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="register" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="staff" alt=""/>
-    </file>
-    <file name="facebook_poster_.png" crc="203603000" ref="index"/>
-    <file name="twitter.svg" crc="504100210" seo="true" ref="index:about:events:writing-group:register:forge:staff">
-      <caption webpage="writing-group" alt=""/>
-      <caption webpage="forge" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="register" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="staff" alt=""/>
-    </file>
-    <file name="twitter_poster_.png" crc="3908298412" ref="index"/>
-    <file name="tumblr.svg" crc="4163930803" seo="true" ref="index:about:events:writing-group:register:forge:staff">
-      <caption webpage="writing-group" alt=""/>
-      <caption webpage="forge" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="register" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="staff" alt=""/>
-    </file>
-    <file name="tumblr_poster_.png" crc="157914133" ref="index"/>
     <file name="2005.jpg" crc="536273303" ref="about">
       <caption webpage="about" alt=""/>
     </file>
@@ -125,39 +225,31 @@
     <file name="combat.jpg" crc="264439600" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="kgb.jpg" crc="3858545147" seo="true" ref="staff">
-      <caption webpage="staff" alt=""/>
-    </file>
-    <file name="slippers.jpg" crc="126041246" seo="true" ref="staff">
-      <caption webpage="staff" alt=""/>
-    </file>
-    <file name="annika.jpg" crc="4149930528" seo="true" ref="staff">
-      <caption webpage="staff" alt=""/>
-    </file>
-    <file name="gabriel.jpg" crc="395649305" seo="true" ref="staff">
-      <caption webpage="staff" alt=""/>
-    </file>
-    <file name="addison.jpg" crc="4247266699" seo="true" ref="staff">
-      <caption webpage="staff" alt=""/>
-    </file>
-    <file name="blue.jpg" crc="4160719344" seo="true" ref="staff">
-      <caption webpage="staff" alt=""/>
-    </file>
-    <file name="connor.jpg" crc="3969048841" seo="true" ref="staff">
-      <caption webpage="staff" alt=""/>
-    </file>
-    <file name="liz.jpg" crc="3863602119" seo="true" ref="staff">
-      <caption webpage="staff" alt=""/>
-    </file>
-    <file name="logan.jpg" crc="206364709" seo="true" ref="staff">
-      <caption webpage="staff" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="329412789" seo="true" mt="1527906749497" redirect="true"/>
-  <file name="about.html" crc="110342289" seo="true" mt="1527906630720" redirect="true"/>
-  <file name="events.html" crc="230109117" seo="true" mt="1527906630720" redirect="true"/>
-  <file name="writing-group.html" crc="373862038" seo="true" mt="1527906630720" redirect="true"/>
-  <file name="register.html" crc="3977101056" seo="true" mt="1527906630720" redirect="true"/>
-  <file name="forge.html" crc="3956100689" seo="true" mt="1527906630720" redirect="true"/>
-  <file name="staff.html" crc="417890096" seo="true" mt="1527906630720" redirect="true"/>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_home-master.css" crc="180067960" ref="phone>forge:phone>staff:phone>index:phone>events:phone>writing-group:phone>about:phone>register"/>
+      <file name="forge.css" crc="4122716578" ref="phone>forge"/>
+      <file name="staff.css" crc="361937615" ref="phone>staff"/>
+      <file name="index.css" crc="4284110" ref="phone>index"/>
+      <file name="events.css" crc="4122716578" ref="phone>events"/>
+      <file name="writing-group.css" crc="4122716578" ref="phone>writing-group"/>
+      <file name="about.css" crc="25346932" ref="phone>about"/>
+      <file name="register.css" crc="4122716578" ref="phone>register"/>
+    </folder>
+    <file name="index.html" crc="8768502" seo="true" mt="1532486566480" redirect="true"/>
+    <file name="about.html" crc="3975526691" seo="true" mt="1532486566480" redirect="true"/>
+    <file name="staff.html" crc="16125077" seo="true" mt="1532487342178" redirect="true"/>
+    <file name="forge.html" crc="4102635659" seo="true" mt="1532486566480" redirect="true"/>
+    <file name="events.html" crc="19937578" seo="true" mt="1532486566480" redirect="true"/>
+    <file name="writing-group.html" crc="4228580566" seo="true" mt="1532486566480" redirect="true"/>
+    <file name="register.html" crc="428678731" seo="true" mt="1532486566480" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="419414894" seo="true" mt="1532475599479" redirect="true"/>
+  <file name="about.html" crc="19846880" seo="true" mt="1532475599518" redirect="true"/>
+  <file name="events.html" crc="302285548" seo="true" mt="1532475599643" redirect="true"/>
+  <file name="writing-group.html" crc="73532613" seo="true" mt="1532475599685" redirect="true"/>
+  <file name="register.html" crc="451837563" seo="true" mt="1532475599726" redirect="true"/>
+  <file name="forge.html" crc="4143338426" seo="true" mt="1532475599606" redirect="true"/>
+  <file name="staff.html" crc="473995599" seo="true" mt="1532475599559" redirect="true"/>
 </manifest>

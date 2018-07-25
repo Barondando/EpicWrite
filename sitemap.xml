@@ -1,207 +1,214 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://barondando.github.io/epicwrite/index.html</loc>
-    <lastmod>2018-06-01</lastmod>
+    <loc>https://barondando.github.io/EpicWrite/index.html</loc>
+    <lastmod>2018-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://barondando.github.io/EpicWrite/phone/index.html"/>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/epicwrite%20logo%20medium.png</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/epicwrite%20logo%20medium.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/adobestock_campfire.jpg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/arrow-down.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/trust.jpg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/help-circle.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/book.jpg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/users.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/red%20beret.jpg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/calendar.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/20170722_094814.jpg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/book-open.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/arrow-down.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/facebook.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/help-circle.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/twitter.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/users.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/tumblr.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/calendar.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/heatherworks_white.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/book-open.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/adobestock_campfire.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/heatherworks_white.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/trust.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/facebook.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/book.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/twitter.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/red%20beret.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/tumblr.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/20170722_094814.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://barondando.github.io/epicwrite/about.html</loc>
-    <lastmod>2018-06-01</lastmod>
+    <loc>https://barondando.github.io/EpicWrite/about.html</loc>
+    <lastmod>2018-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://barondando.github.io/EpicWrite/phone/about.html"/>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/epicwrite%20logo%20medium.png</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/epicwrite%20logo%20medium.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/heatherworks_white.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/facebook.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/facebook.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/twitter.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/twitter.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/tumblr.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/tumblr.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/heatherworks_white.svg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://barondando.github.io/epicwrite/events.html</loc>
-    <lastmod>2018-06-01</lastmod>
+    <loc>https://barondando.github.io/EpicWrite/events.html</loc>
+    <lastmod>2018-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://barondando.github.io/EpicWrite/phone/events.html"/>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/epicwrite%20logo%20medium.png</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/epicwrite%20logo%20medium.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/heatherworks_white.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/facebook.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/facebook.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/twitter.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/twitter.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/tumblr.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/tumblr.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/heatherworks_white.svg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://barondando.github.io/epicwrite/writing-group.html</loc>
-    <lastmod>2018-06-01</lastmod>
+    <loc>https://barondando.github.io/EpicWrite/writing-group.html</loc>
+    <lastmod>2018-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://barondando.github.io/EpicWrite/phone/writing-group.html"/>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/epicwrite%20logo%20medium.png</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/epicwrite%20logo%20medium.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/heatherworks_white.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/facebook.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/facebook.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/twitter.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/twitter.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/tumblr.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/tumblr.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/heatherworks_white.svg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://barondando.github.io/epicwrite/register.html</loc>
-    <lastmod>2018-06-01</lastmod>
+    <loc>https://barondando.github.io/EpicWrite/register.html</loc>
+    <lastmod>2018-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://barondando.github.io/EpicWrite/phone/register.html"/>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/epicwrite%20logo%20medium.png</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/epicwrite%20logo%20medium.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/heatherworks_white.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/facebook.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/facebook.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/twitter.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/twitter.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/tumblr.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/tumblr.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/heatherworks_white.svg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://barondando.github.io/epicwrite/forge.html</loc>
-    <lastmod>2018-06-01</lastmod>
+    <loc>https://barondando.github.io/EpicWrite/forge.html</loc>
+    <lastmod>2018-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://barondando.github.io/EpicWrite/phone/forge.html"/>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/epicwrite%20logo%20medium.png</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/epicwrite%20logo%20medium.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/heatherworks_white.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/facebook.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/facebook.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/twitter.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/twitter.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/tumblr.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/tumblr.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/heatherworks_white.svg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://barondando.github.io/epicwrite/staff.html</loc>
-    <lastmod>2018-06-01</lastmod>
+    <loc>https://barondando.github.io/EpicWrite/staff.html</loc>
+    <lastmod>2018-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://barondando.github.io/EpicWrite/phone/staff.html"/>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/epicwrite%20logo%20medium.png</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/epicwrite%20logo%20medium.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/heatherworks_white.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/facebook.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/facebook.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/twitter.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/twitter.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/tumblr.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/tumblr.svg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/heatherworks_white.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/kgb.jpg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/kgb.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/slippers.jpg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/slippers.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/annika.jpg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/annika.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/gabriel.jpg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/gabriel.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/addison.jpg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/addison.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/blue.jpg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/blue.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/connor.jpg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/connor.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/liz.jpg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/liz.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://barondando.github.io/epicwrite/images/logan.jpg</image:loc>
+      <image:loc>https://barondando.github.io/EpicWrite/images/logan.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
