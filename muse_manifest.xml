@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://barondando.github.io/EpicWrite" resolutions="1x" timestamp="1532492078109">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://barondando.github.io/EpicWrite" resolutions="1x" timestamp="1532492650267">
   <folder name="css">
     <file name="site_global.css" crc="4253530768"/>
     <file name="master_home-master.css" crc="49264113" ref="about:register:writing-group:forge:index:events:staff"/>
@@ -6,7 +6,7 @@
     <file name="register.css" crc="47557696" ref="register"/>
     <file name="writing-group.css" crc="47557696" ref="writing-group"/>
     <file name="forge.css" crc="47557696" ref="forge"/>
-    <file name="index.css" crc="4156041591" ref="index"/>
+    <file name="index.css" crc="462760761" ref="index"/>
     <file name="events.css" crc="47557696" ref="events"/>
     <file name="staff.css" crc="333633155" ref="staff"/>
   </folder>
@@ -64,23 +64,23 @@
     <file name="arrow-down.svg" crc="3784695621" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="arrow-down_poster_.png" crc="4029334125" ref="phone>index"/>
+    <file name="arrow-down_poster_.png" crc="130254087" ref="phone>index:index"/>
     <file name="help-circle.svg" crc="108006272" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="help-circle_poster_.png" crc="4027008202" ref="phone>index"/>
+    <file name="help-circle_poster_.png" crc="4055244444" ref="phone>index:index"/>
     <file name="users.svg" crc="3830583679" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="users_poster_.png" crc="204140089" ref="phone>index"/>
+    <file name="users_poster_.png" crc="3930914948" ref="phone>index:index"/>
     <file name="calendar.svg" crc="3823766959" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="calendar_poster_.png" crc="3827625754" ref="phone>index"/>
+    <file name="calendar_poster_.png" crc="124693106" ref="phone>index:index"/>
     <file name="book-open.svg" crc="462867204" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="book-open_poster_.png" crc="93452565" ref="phone>index"/>
+    <file name="book-open_poster_.png" crc="93452565" ref="phone>index:index"/>
     <file name="facebook.svg" crc="431971783" seo="true" ref="phone>index:phone>about:phone>staff:phone>forge:phone>events:phone>writing-group:phone>register:index:about:events:writing-group:register:forge:staff">
       <caption webpage="forge" alt=""/>
       <caption webpage="staff" alt=""/>
@@ -90,7 +90,7 @@
       <caption webpage="events" alt=""/>
       <caption webpage="register" alt=""/>
     </file>
-    <file name="facebook_poster_.png" crc="203603000" ref="phone>index"/>
+    <file name="facebook_poster_.png" crc="203603000" ref="phone>index:index"/>
     <file name="twitter.svg" crc="504100210" seo="true" ref="phone>index:phone>about:phone>staff:phone>forge:phone>events:phone>writing-group:phone>register:index:about:events:writing-group:register:forge:staff">
       <caption webpage="forge" alt=""/>
       <caption webpage="staff" alt=""/>
@@ -100,7 +100,7 @@
       <caption webpage="events" alt=""/>
       <caption webpage="register" alt=""/>
     </file>
-    <file name="twitter_poster_.png" crc="3908298412" ref="phone>index"/>
+    <file name="twitter_poster_.png" crc="3908298412" ref="phone>index:index"/>
     <file name="tumblr.svg" crc="4163930803" seo="true" ref="phone>index:phone>about:phone>staff:phone>forge:phone>events:phone>writing-group:phone>register:index:about:events:writing-group:register:forge:staff">
       <caption webpage="forge" alt=""/>
       <caption webpage="staff" alt=""/>
@@ -110,7 +110,7 @@
       <caption webpage="events" alt=""/>
       <caption webpage="register" alt=""/>
     </file>
-    <file name="tumblr_poster_.png" crc="157914133" ref="phone>index"/>
+    <file name="tumblr_poster_.png" crc="157914133" ref="phone>index:index"/>
     <file name="heatherworks_white.svg" crc="3862497481" seo="true" ref="phone>index:phone>about:phone>staff:phone>forge:phone>events:phone>writing-group:phone>register:index:about:events:writing-group:register:forge:staff">
       <caption webpage="forge" alt=""/>
       <caption webpage="staff" alt=""/>
@@ -120,7 +120,7 @@
       <caption webpage="events" alt=""/>
       <caption webpage="register" alt=""/>
     </file>
-    <file name="heatherworks_white_poster_.png" crc="188934098" ref="phone>index"/>
+    <file name="heatherworks_white_poster_.png" crc="188934098" ref="phone>index:index"/>
     <file name="2005-u7157-fr.jpg" crc="4009102146" ref="phone>about"/>
     <file name="bridge-u7164-fr.jpg" crc="457134081" ref="phone>about"/>
     <file name="combat-u7168-fr.jpg" crc="4267303866" ref="phone>about"/>
@@ -187,7 +187,7 @@
       <file name="about.css" crc="3777048049" ref="phone>about"/>
       <file name="register.css" crc="7842799" ref="phone>register"/>
     </folder>
-    <file name="index.html" crc="3874611769" seo="true" mt="1532492028913" redirect="true"/>
+    <file name="index.html" crc="606913" seo="true" mt="1532492393364" redirect="true"/>
     <file name="about.html" crc="3770546388" seo="true" mt="1532492028913" redirect="true"/>
     <file name="staff.html" crc="4157714214" seo="true" mt="1532492028913" redirect="true"/>
     <file name="forge.html" crc="180358191" seo="true" mt="1532492028913" redirect="true"/>
@@ -195,11 +195,11 @@
     <file name="writing-group.html" crc="413063383" seo="true" mt="1532492028913" redirect="true"/>
     <file name="register.html" crc="4107935317" seo="true" mt="1532492028913" redirect="true"/>
   </folder>
-  <file name="index.html" crc="419414894" seo="true" mt="1532475599479" redirect="true"/>
-  <file name="about.html" crc="19846880" seo="true" mt="1532475599518" redirect="true"/>
-  <file name="events.html" crc="302285548" seo="true" mt="1532475599643" redirect="true"/>
-  <file name="writing-group.html" crc="73532613" seo="true" mt="1532475599685" redirect="true"/>
-  <file name="register.html" crc="451837563" seo="true" mt="1532475599726" redirect="true"/>
-  <file name="forge.html" crc="4143338426" seo="true" mt="1532475599606" redirect="true"/>
-  <file name="staff.html" crc="473995599" seo="true" mt="1532475599559" redirect="true"/>
+  <file name="index.html" crc="18011888" seo="true" mt="1532492597025" redirect="true"/>
+  <file name="about.html" crc="3388450" seo="true" mt="1532492548587" redirect="true"/>
+  <file name="events.html" crc="3770280711" seo="true" mt="1532492548587" redirect="true"/>
+  <file name="writing-group.html" crc="52175806" seo="true" mt="1532492548587" redirect="true"/>
+  <file name="register.html" crc="444583613" seo="true" mt="1532492548587" redirect="true"/>
+  <file name="forge.html" crc="4001259543" seo="true" mt="1532492548587" redirect="true"/>
+  <file name="staff.html" crc="440239216" seo="true" mt="1532492548587" redirect="true"/>
 </manifest>
